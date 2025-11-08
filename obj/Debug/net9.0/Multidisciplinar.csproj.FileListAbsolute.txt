@@ -1,0 +1,14 @@
+C:\Users\Weberson Oliveira\Desktop\Linguagem C#\Multidisciplinar\obj\Debug\net9.0\Multidisciplinar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weberson Oliveira\Desktop\Linguagem C#\Multidisciplinar\obj\Debug\net9.0\Multidisciplinar.AssemblyInfoInputs.cache
+C:\Users\Weberson Oliveira\Desktop\Linguagem C#\Multidisciplinar\obj\Debug\net9.0\Multidisciplinar.AssemblyInfo.cs
+C:\Users\Weberson Oliveira\Desktop\Linguagem C#\Multidisciplinar\obj\Debug\net9.0\Multidisciplinar.csproj.CoreCompileInputs.cache
+C:\Users\Weberson Oliveira\Desktop\Linguagem C#\Multidisciplinar\bin\Debug\net9.0\Multidisciplinar.exe
+C:\Users\Weberson Oliveira\Desktop\Linguagem C#\Multidisciplinar\bin\Debug\net9.0\Multidisciplinar.deps.json
+C:\Users\Weberson Oliveira\Desktop\Linguagem C#\Multidisciplinar\bin\Debug\net9.0\Multidisciplinar.runtimeconfig.json
+C:\Users\Weberson Oliveira\Desktop\Linguagem C#\Multidisciplinar\bin\Debug\net9.0\Multidisciplinar.dll
+C:\Users\Weberson Oliveira\Desktop\Linguagem C#\Multidisciplinar\bin\Debug\net9.0\Multidisciplinar.pdb
+C:\Users\Weberson Oliveira\Desktop\Linguagem C#\Multidisciplinar\obj\Debug\net9.0\Multidisciplinar.dll
+C:\Users\Weberson Oliveira\Desktop\Linguagem C#\Multidisciplinar\obj\Debug\net9.0\refint\Multidisciplinar.dll
+C:\Users\Weberson Oliveira\Desktop\Linguagem C#\Multidisciplinar\obj\Debug\net9.0\Multidisciplinar.pdb
+C:\Users\Weberson Oliveira\Desktop\Linguagem C#\Multidisciplinar\obj\Debug\net9.0\Multidisciplinar.genruntimeconfig.cache
+C:\Users\Weberson Oliveira\Desktop\Linguagem C#\Multidisciplinar\obj\Debug\net9.0\ref\Multidisciplinar.dll
