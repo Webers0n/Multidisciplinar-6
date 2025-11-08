@@ -55,7 +55,7 @@ O sistema possui um menu interativo com as seguintes opções:
 
 ---
 
-
+![Tela do Sistema](img/menu.png)
 ---
 
 ## 🧑‍💻 Autor
